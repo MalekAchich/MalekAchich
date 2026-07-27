@@ -2,7 +2,8 @@
 
 **Software Engineer — AI & Agent Systems Engineer**
 
-I build **agentic AI systems**, **backend platforms**, and **cloud/FinOps infrastructure** — with a focus on grounding, provenance, and making LLM-powered systems actually trustworthy in production.
+I build **AI and agentic systems**, **automated solutions**, and — at the core of it — answers to complex engineering problems.
+I'm a software engineer first: my edge is in **agents**, **LLM grounding**, and **automation**, but give me a hard problem in any stack and I'll engineer my way to a solution.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Malek--Achich-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Malek-Achich) [![Email](https://img.shields.io/badge/Email-malek.achich.02%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:malek.achich.02@gmail.com)
 
